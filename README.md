@@ -1,6 +1,6 @@
 ### Olá, eu sou Charles 👋
   - Dev front-end
-  - Estudando Typescript, Angular e React 
+  - Estudando Typescript e Angular
   - Fascinado por UX Design  
 ##
 

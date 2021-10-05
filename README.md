@@ -1,13 +1,13 @@
 ### Olá, eu sou Charles 👋
-  - Dev front-end
-  - Estudando Typescript e Angular
-  - Fascinado por UX Design  
+  - Desenvolvedor front-end
+  - Estudante de Angular e React
+  
 ##
 
  <div>
   <a href="https://github.com/CharlesVinicius">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CharlesVinicius&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesVinicius&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=CharlesVinicius&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesVinicius&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   <div style="display: inline_block"><br>

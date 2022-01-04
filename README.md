@@ -1,8 +1,5 @@
-### Olá, eu sou Charles 👋
-  - Desenvolvedor front-end
-  - Estudante de ReactJS e Angular
-  - Estudante UX Design
-  - Gosta de um bom livro, filmes e jogos eletrônicos
+### Olá, eu sou Charles 👋 desenvolvedor Front-End
+  
   
 ##
 

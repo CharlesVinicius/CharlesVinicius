@@ -1,4 +1,6 @@
 ### Olá, eu sou Charles 👋 desenvolvedor Front-End
+
+- Graduado em Análise e Desenvolvimento de Sistemas
   
   
 ##

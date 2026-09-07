@@ -1,7 +1,7 @@
-### Olá, eu sou Charles 👋 desenvolvedor Front-End
+### Olá, eu sou Charles 👋 desenvolvedor, Analista de Dados e Analista de Suporte
 
 - Graduado em Análise e Desenvolvimento de Sistemas
-  
+- Pós graduado em Ciência de Dados
   
 ##
 
